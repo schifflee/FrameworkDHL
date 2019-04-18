@@ -1,0 +1,24 @@
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\managsow\\Documents\\SharpDevelop Projects\\SOW.Automation\\SOW.Automation.Interface.DLx\\OCR\\SelectApplication.png","offset_x":0,"offset_y":0,"similar":0.7},"timeout":100.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\managsow\\Documents\\SharpDevelop Projects\\SOW.Automation\\SOW.Automation.Interface.DLx\\OCR\\LoginRedPrairie.png","offset_x":0,"offset_y":0,"similar":0.7},"timeout":100.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\managsow\\Documents\\SharpDevelop Projects\\SOW.Automation\\SOW.Automation.Interface.DLx\\OCR\\MainLeftPanel.png","offset_x":0,"offset_y":0,"similar":0.7},"timeout":100.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\managsow\\Documents\\SharpDevelop Projects\\SOW.Automation\\SOW.Automation.Interface.DLx\\OCR\\TaskManagementTitle.png","offset_x":0,"offset_y":0,"similar":0.7},"timeout":100.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\managsow\\Documents\\SharpDevelop Projects\\SOW.Automation\\SOW.Automation.Interface.DLx\\OCR\\TaskManagementTableStatusMS.png","offset_x":0,"offset_y":0,"similar":0.7},"timeout":100.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\managsow\\Documents\\SharpDevelop Projects\\SOW.Automation\\SOW.Automation.Interface.DLx\\OCR\\TaskManagementTitle.png","offset_x":0,"offset_y":0,"similar":0.7},"timeout":100.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\managsow\\Documents\\SharpDevelop Projects\\SOW.Automation\\SOW.Automation.Interface.DLx\\OCR\\TaskManagementTableMS.png","offset_x":0,"offset_y":0,"similar":0.7},"timeout":100.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\managsow\\Documents\\SharpDevelop Projects\\SOW.Automation\\SOW.Automation.Interface.DLx\\OCR\\MainCloseButton2.png","offset_x":0,"offset_y":0,"similar":0.7},"timeout":100.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::

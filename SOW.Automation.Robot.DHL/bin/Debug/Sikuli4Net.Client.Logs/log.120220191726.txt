@@ -1,0 +1,19 @@
+:::Making Request to Service: http://localhost:8080/sikuli/api/find POST: {"jPattern":{"imagePath":"C:\\Users\\analista01sow\\Desktop\\Old\\All\\201902111337\\SOW.Automation.Robot.DHL\\bin\\Debug\\OCR\\RedPrairie\\SelectApplication\\Pattern01.png","offset_x":0,"offset_y":0,"similar":0.9},"highlight":true}:::
+:::{"result":"PASS","message":"Pattern Found!"}:::
+:::Result: PASS Message: Pattern Found! Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/click POST: {"jPattern":{"imagePath":"C:\\Users\\analista01sow\\Desktop\\Old\\All\\201902111337\\SOW.Automation.Robot.DHL\\bin\\Debug\\OCR\\RedPrairie\\SelectApplication\\Pattern01.png","offset_x":0,"offset_y":0,"similar":0.9},"jKeyModifier":"NONE"}:::
+:::{"result":"PASS","message":"Pattern Clicked"}:::
+:::Result: PASS Message: Pattern Clicked Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\analista01sow\\Desktop\\Old\\All\\201902111337\\SOW.Automation.Robot.DHL\\bin\\Debug\\OCR\\RedPrairie\\SelectApplication\\Pattern02.png","offset_x":0,"offset_y":0,"similar":0.9},"timeout":60.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/find POST: {"jPattern":{"imagePath":"C:\\Users\\analista01sow\\Desktop\\Old\\All\\201902111337\\SOW.Automation.Robot.DHL\\bin\\Debug\\OCR\\RedPrairie\\SelectApplication\\OK.png","offset_x":0,"offset_y":0,"similar":0.9},"highlight":true}:::
+:::{"result":"PASS","message":"Pattern Found!"}:::
+:::Result: PASS Message: Pattern Found! Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/click POST: {"jPattern":{"imagePath":"C:\\Users\\analista01sow\\Desktop\\Old\\All\\201902111337\\SOW.Automation.Robot.DHL\\bin\\Debug\\OCR\\RedPrairie\\SelectApplication\\OK.png","offset_x":0,"offset_y":0,"similar":0.9},"jKeyModifier":"NONE"}:::
+:::{"result":"PASS","message":"Pattern Clicked"}:::
+:::Result: PASS Message: Pattern Clicked Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\analista01sow\\Desktop\\Old\\All\\201902111337\\SOW.Automation.Robot.DHL\\bin\\Debug\\OCR\\RedPrairie\\Login\\Pattern01.png","offset_x":0,"offset_y":0,"similar":0.9},"timeout":60.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/find POST: {"jPattern":{"imagePath":"C:\\Users\\analista01sow\\Desktop\\Old\\All\\201902111337\\SOW.Automation.Robot.DHL\\bin\\Debug\\OCR\\RedPrairie\\Login\\UserID.png","offset_x":0,"offset_y":0,"similar":0.9},"highlight":true}:::

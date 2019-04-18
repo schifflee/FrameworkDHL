@@ -1,0 +1,1 @@
+java -jar sikulirestapi-1.0.jar

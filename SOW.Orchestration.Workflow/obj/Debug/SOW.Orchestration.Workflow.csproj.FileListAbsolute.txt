@@ -1,0 +1,30 @@
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Orchestration.Workflow\bin\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Orchestration.Workflow\bin\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Orchestration.Workflow\bin\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Orchestration.Workflow\bin\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Orchestration.Workflow\bin\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Orchestration.Workflow\bin\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Orchestration.Workflow\bin\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Orchestration.Workflow\bin\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Orchestration.Workflow\bin\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Orchestration.Workflow\bin\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Orchestration.Workflow\bin\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Orchestration.Workflow\bin\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Orchestration.Workflow\obj\Debug\SOW.Orchestration.Workflow.pdb

@@ -1,0 +1,1 @@
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\analista01sow\\Documents\\Mais Recente\\SOW.Automation.Robot.DHL\\bin\\Debug\\OCR\\RedPrairie\\SelectApplication\\Pattern.png","offset_x":0,"offset_y":0,"similar":0.7},"timeout":100.0}:::

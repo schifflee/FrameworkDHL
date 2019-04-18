@@ -1,0 +1,399 @@
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe.config
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\NPOI.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OOXML.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Sikuli4Net.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.xml
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.xml
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.xml
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.xml
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.csprojResolveAssemblyReference.cache
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe.config
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.xml
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.pdb
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.xml
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.pdb
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.pdb
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.csprojAssemblyReference.cache
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.csproj.CoreCompileInputs.cache
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.csproj.CopyComplete
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe.config
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Sikuli4Net.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\NPOI.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OOXML.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.xml
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.xml
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.xml
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.xml
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.csprojResolveAssemblyReference.cache
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.exe
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe.config
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\Sikuli4Net.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\NPOI.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OOXML.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.xml
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.xml
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.xml
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.xml
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.csprojResolveAssemblyReference.cache
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.exe
+C:\Workspace\Development\Mais Recente\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe.config
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\Sikuli4Net.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\NPOI.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OOXML.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.xml
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.xml
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.xml
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.xml
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Robot.DHL\bin\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe.config
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\NPOI.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OOXML.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\Sikuli4Net.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.xml
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.xml
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.xml
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.xml
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe.config
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\NPOI.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OOXML.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\Sikuli4Net.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.xml
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.xml
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.xml
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.xml
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe.config
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\NPOI.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\Sikuli4Net.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OOXML.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.xml
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.xml
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.xml
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.xml
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe.config
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Orchestration.Workflow.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\NPOI.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\Sikuli4Net.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OOXML.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Workflow.DHL.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\Castle.Core.xml
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.xml
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.Reporting.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\TestStack.White.ScreenObjects.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Interface.DLx.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Desktop.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Service.Web.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Orchestration.Workflow.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.xml
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.TestStack.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\bin\Debug\WebDriver.Support.xml
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.csprojAssemblyReference.cache
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.exe
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.DHL.pdb

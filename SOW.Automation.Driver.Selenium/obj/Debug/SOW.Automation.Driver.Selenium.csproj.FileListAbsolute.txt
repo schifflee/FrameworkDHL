@@ -1,0 +1,124 @@
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.xml
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csprojResolveAssemblyReference.cache
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.xml
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csprojAssemblyReference.cache
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csproj.CoreCompileInputs.cache
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csproj.CopyComplete
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.xml
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.xml
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csprojResolveAssemblyReference.cache
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.xml
+C:\Workspace\Development\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.xml
+C:\Workspace\Development\Mais Recente\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csprojResolveAssemblyReference.cache
+C:\Workspace\Development\Mais Recente\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.xml
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Driver.Selenium\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.xml
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Driver.Selenium\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.xml
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.xml
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.xml
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.xml
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csprojAssemblyReference.cache
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.csproj.CopyComplete
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Selenium\obj\Debug\SOW.Automation.Driver.Selenium.pdb

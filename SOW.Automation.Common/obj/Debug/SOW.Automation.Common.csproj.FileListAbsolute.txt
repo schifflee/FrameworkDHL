@@ -1,0 +1,51 @@
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.pdb
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.csprojAssemblyReference.cache
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.csproj.CoreCompileInputs.cache
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Workspace\Development\Mais Recente\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Common\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.pdb

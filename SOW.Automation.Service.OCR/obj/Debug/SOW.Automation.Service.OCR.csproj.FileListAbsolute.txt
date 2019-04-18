@@ -1,0 +1,96 @@
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\Sikuli4Net.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.csprojResolveAssemblyReference.cache
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\managsow\Documents\SharpDevelop Projects\SOW.Automation\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.csprojAssemblyReference.cache
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.csproj.CoreCompileInputs.cache
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\Sikuli4Net.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.csprojResolveAssemblyReference.cache
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.dll
+C:\Workspace\Development\SOW.Automation\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\Sikuli4Net.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Workspace\Development\Mais Recente\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.csprojResolveAssemblyReference.cache
+C:\Workspace\Development\Mais Recente\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.dll
+C:\Workspace\Development\Mais Recente\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\Sikuli4Net.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Mais Recente\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Service.OCR\bin\Debug\Sikuli4Net.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Mario Version\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Service.OCR\bin\Debug\Sikuli4Net.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Mario Version 2\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Service.OCR\bin\Debug\Sikuli4Net.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Old\All\201902111337\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Service.OCR\bin\Debug\Sikuli4Net.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.csprojResolveAssemblyReference.cache
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.csprojAssemblyReference.cache
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Service.OCR.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\bin\Debug\Sikuli4Net.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Common.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\bin\Debug\SOW.Automation.Driver.Sikuli.dll.config
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Service.OCR\obj\Debug\SOW.Automation.Service.OCR.csproj.CopyComplete

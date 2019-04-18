@@ -1,0 +1,6 @@
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Office\bin\Debug\SOW.Automation.Driver.Office.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Office\bin\Debug\SOW.Automation.Driver.Office.pdb
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Office\obj\Debug\SOW.Automation.Driver.Office.csprojAssemblyReference.cache
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Office\obj\Debug\SOW.Automation.Driver.Office.csproj.CoreCompileInputs.cache
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Office\obj\Debug\SOW.Automation.Driver.Office.dll
+C:\Users\lnunes\Desktop\Framework de Desenvolvimento\Mais Recente\201812051055_SOW.Automation\SOW.Automation.Driver.Office\obj\Debug\SOW.Automation.Driver.Office.pdb
