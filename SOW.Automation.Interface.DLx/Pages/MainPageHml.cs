@@ -22,6 +22,7 @@ namespace SOW.Automation.Interface.DLx.Pages
 	{
 		
         public MainPageHml(WebDriverContextInfo driverContextInfo, DesktopDriverContextInfo desktopDriverContextInfo) : base(driverContextInfo, desktopDriverContextInfo) { }
+
 		public MainPageHml(WebService webservice, DesktopService desktopService) : base(webservice, desktopService) { }
 		
 		private void SelecionarAplicativos()

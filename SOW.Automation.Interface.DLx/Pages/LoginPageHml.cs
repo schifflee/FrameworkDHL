@@ -20,7 +20,7 @@ namespace SOW.Automation.Interface.DLx.Pages
 		
 		public void EfetuarLogin(string usuario, string senha, int timeout)
 		{
-			ClicarBotaoProtocolo(timeout);
+			//ClicarBotaoProtocolo(timeout);
 			
 			PreencherCampoTextoUsuario(usuario);
 			PreencherCampoTextoSenha(senha);
@@ -29,11 +29,11 @@ namespace SOW.Automation.Interface.DLx.Pages
 		
 		private void PreencherCampoTextoUsuario(string value)
 		{
-			this.WebAutomationService.BaseElement.InsertTextByID("username", value, this.WebAutomationService.DriverContextInfo.Timeout);
+			this.WebAutomationService.BaseElement.InsertTextByID("mat-input-0", value, this.WebAutomationService.DriverContextInfo.Timeout);
 		}
 		private void PreencherCampoTextoSenha(string value)
 		{
-			this.WebAutomationService.BaseElement.InsertTextByID("password", value, this.WebAutomationService.DriverContextInfo.Timeout);
+			this.WebAutomationService.BaseElement.InsertTextByID("mat-input-1", value, this.WebAutomationService.DriverContextInfo.Timeout);
 		}
 		private void ClicarBotaoLogin(int timeout)
 		{

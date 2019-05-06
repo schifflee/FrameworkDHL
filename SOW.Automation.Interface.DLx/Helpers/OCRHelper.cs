@@ -17,7 +17,8 @@ namespace SOW.Automation.Interface.DLx.Helpers
 		public string WindowPath { get; set; }
 		public string ImagePath { get; set; }
 		public string FileExtension { get; set; }
-		public OCRHelper(string root, string folder = "OCR", string subFolder = "RedPrairie", string windowPath = "Main", string imagePath = "OK", string fileExtension = "png")
+
+        public OCRHelper(string root, string folder = "OCR", string subFolder = "RedPrairie", string windowPath = "Main", string imagePath = "OK", string fileExtension = "png")
 		{
 			try {
 				this.Root = root;

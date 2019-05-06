@@ -10,12 +10,12 @@ using System;
 
 namespace SOW.Automation.Common
 {
-	/// <summary>
-	/// Description of KeyboardEnum.
-	/// </summary>
-	public enum KeyboardEnum
-	{
-		 BACKSPACE = 8,
+    /// <summary>
+    /// Description of KeyboardEnum.
+    /// </summary>
+    public enum KeyboardEnum
+    {
+        BACKSPACE = 8,
         TAB = 9,
         RETURN = 13,
         SHIFT = 16,
@@ -66,5 +66,5 @@ namespace SOW.Automation.Common
         SCROLL = 145,
         LEFT_ALT = 164,
         RIGHT_ALT = 165
-	}
+    }
 }

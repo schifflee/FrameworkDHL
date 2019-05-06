@@ -320,10 +320,6 @@ C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Interface.DLx\bin
 C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Interface.DLx\obj\Debug\SOW.Automation.Interface.DLx.csprojResolveAssemblyReference.cache
 C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Interface.DLx\obj\Debug\SOW.Automation.Interface.DLx.dll
 C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Interface.DLx\obj\Debug\SOW.Automation.Interface.DLx.pdb
-C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\obj\Debug\SOW.Automation.Interface.DLx.csprojAssemblyReference.cache
-C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\obj\Debug\SOW.Automation.Interface.DLx.csproj.CoreCompileInputs.cache
-C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\obj\Debug\SOW.Automation.Interface.DLx.dll
-C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\obj\Debug\SOW.Automation.Interface.DLx.pdb
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\bin\Debug\SOW.Automation.Interface.DLx.dll
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\bin\Debug\SOW.Automation.Interface.DLx.pdb
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\bin\Debug\Castle.Core.dll
@@ -364,4 +360,8 @@ C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\bin\
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\bin\Debug\SOW.Automation.Driver.Sikuli.dll.config
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\bin\Debug\SOW.Automation.Driver.Selenium.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\obj\Debug\SOW.Automation.Interface.DLx.csprojAssemblyReference.cache
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\obj\Debug\SOW.Automation.Interface.DLx.csproj.CoreCompileInputs.cache
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\obj\Debug\SOW.Automation.Interface.DLx.csproj.CopyComplete
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\obj\Debug\SOW.Automation.Interface.DLx.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Interface.DLx\obj\Debug\SOW.Automation.Interface.DLx.pdb

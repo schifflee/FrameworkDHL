@@ -20,8 +20,12 @@ namespace SOW.Automation.Interface.DLx.Pages
 	/// </summary>
 	public class MainPage : PageBase
 	{
-        public MainPage(WebDriverContextInfo driverContextInfo, DesktopDriverContextInfo desktopDriverContextInfo) : base(driverContextInfo, desktopDriverContextInfo){}
-		public MainPage(WebService webservice, DesktopService desktopService) : base(webservice, desktopService) { }
+        public MainPage(WebDriverContextInfo driverContextInfo, 
+            DesktopDriverContextInfo desktopDriverContextInfo) 
+            : base(driverContextInfo, desktopDriverContextInfo){}
+
+        public MainPage(WebService webservice, DesktopService desktopService) 
+            : base(webservice, desktopService) { }
 		
 		
 		private void ClicarPastaDlx()

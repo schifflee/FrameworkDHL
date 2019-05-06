@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{0B849C96-B02C-4B6A-860B-E3B1EE1C8C94}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>SOW.Automation.Workflow.Omni</RootNamespace>
+    <AssemblyName>SOW.Automation.Workflow.Omni</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Allocation\AllocationProcess.cs" />
+    <Compile Include="Allocation\AllocationProcessEnum.cs" />
+    <Compile Include="Allocation\DesktopProcess.cs" />
+    <Compile Include="Allocation\DesktopProcessEnum.cs" />
+    <Compile Include="Allocation\WebProcess.cs" />
+    <Compile Include="Allocation\WebProcessEnum.cs" />
+    <Compile Include="Exception\ExceptionProcess.cs" />
+    <Compile Include="Exception\ExceptionProcessEnum.cs" />
+    <Compile Include="Exception\DesktopProcess.cs" />
+    <Compile Include="Exception\DesktopProcessEnum.cs" />
+    <Compile Include="Exception\WebProcess.cs" />
+    <Compile Include="Exception\WebProcessEnum.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services.cs" />
+    <Compile Include="Short.cs" />
+    <Compile Include="Test.cs" />
+    <Compile Include="StepEnum.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SOW.Automation.Common\SOW.Automation.Common.csproj">
+      <Project>{2d2c3320-8eb2-4dcb-8160-3ce5d4a8a668}</Project>
+      <Name>SOW.Automation.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SOW.Automation.Interface.DLx\SOW.Automation.Interface.DLx.csproj">
+      <Project>{2be5c268-3315-4b28-8042-f625803597e6}</Project>
+      <Name>SOW.Automation.Interface.DLx</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SOW.Automation.Service.Desktop\SOW.Automation.Service.Desktop.csproj">
+      <Project>{7c3476ca-9bfa-4f06-8748-e663664ce97d}</Project>
+      <Name>SOW.Automation.Service.Desktop</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SOW.Automation.Service.OCR\SOW.Automation.Service.OCR.csproj">
+      <Project>{8664622f-b1cb-4358-93ba-7f218e067820}</Project>
+      <Name>SOW.Automation.Service.OCR</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SOW.Automation.Service.Web\SOW.Automation.Service.Web.csproj">
+      <Project>{78162e7f-07af-43fe-a378-f3b459b319ab}</Project>
+      <Name>SOW.Automation.Service.Web</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SOW.Orchestration.Workflow\SOW.Orchestration.Workflow.csproj">
+      <Project>{e3c94770-8941-42be-a849-30e215dd816c}</Project>
+      <Name>SOW.Orchestration.Workflow</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
