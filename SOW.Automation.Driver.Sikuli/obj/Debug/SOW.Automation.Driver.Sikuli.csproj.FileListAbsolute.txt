@@ -92,10 +92,6 @@ C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Sikuli\bin
 C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Sikuli\obj\Debug\SOW.Automation.Driver.Sikuli.csprojResolveAssemblyReference.cache
 C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Sikuli\obj\Debug\SOW.Automation.Driver.Sikuli.dll
 C:\Users\analista01sow\Desktop\Dev\201902111337\SOW.Automation.Driver.Sikuli\obj\Debug\SOW.Automation.Driver.Sikuli.pdb
-C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\obj\Debug\SOW.Automation.Driver.Sikuli.csprojAssemblyReference.cache
-C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\obj\Debug\SOW.Automation.Driver.Sikuli.csproj.CoreCompileInputs.cache
-C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\obj\Debug\SOW.Automation.Driver.Sikuli.dll
-C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\obj\Debug\SOW.Automation.Driver.Sikuli.pdb
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\bin\Debug\SOW.Automation.Driver.Sikuli.dll.config
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\bin\Debug\SOW.Automation.Driver.Sikuli.dll
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\bin\Debug\SOW.Automation.Driver.Sikuli.pdb
@@ -104,4 +100,8 @@ C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\bin\
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\bin\Debug\SOW.Automation.Common.dll
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\bin\Debug\SOW.Automation.Common.pdb
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\obj\Debug\SOW.Automation.Driver.Sikuli.csprojAssemblyReference.cache
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\obj\Debug\SOW.Automation.Driver.Sikuli.csproj.CoreCompileInputs.cache
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\obj\Debug\SOW.Automation.Driver.Sikuli.csproj.CopyComplete
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\obj\Debug\SOW.Automation.Driver.Sikuli.dll
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Driver.Sikuli\obj\Debug\SOW.Automation.Driver.Sikuli.pdb

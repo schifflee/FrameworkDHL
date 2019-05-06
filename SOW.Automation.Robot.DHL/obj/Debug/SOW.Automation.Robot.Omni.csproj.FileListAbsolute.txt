@@ -1,0 +1,2 @@
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.Omni.csprojAssemblyReference.cache
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Robot.DHL\obj\Debug\SOW.Automation.Robot.Omni.csproj.CoreCompileInputs.cache
