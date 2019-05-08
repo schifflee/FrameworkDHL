@@ -49,3 +49,4 @@ C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Common\bin\Debug\S
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.csproj.CoreCompileInputs.cache
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.dll
 C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.pdb
+C:\Users\rportal\Documents\GitHub\FrameworkDHL\SOW.Automation.Common\obj\Debug\SOW.Automation.Common.csprojAssemblyReference.cache
